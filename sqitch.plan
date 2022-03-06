@@ -6,3 +6,4 @@ tables/alter_employee_table_add_columns 2022-03-06T01:58:53Z Bhawna <btyagi@knoc
 tables/alter_salary_column 2022-03-06T02:07:09Z Bhawna <btyagi@knockcrm.com> # Modify salary data type.
 tables/alter_add_one_more_col_employee 2022-03-06T02:16:19Z Bhawna <btyagi@knockcrm.com> # Adding location column.
 tables/drop_location_col_employee 2022-03-06T02:16:45Z Bhawna <btyagi@knockcrm.com> # Drop location column.
+tables/add_company_col 2022-03-06T02:33:48Z Bhawna <btyagi@knockcrm.com> # Add company column.
