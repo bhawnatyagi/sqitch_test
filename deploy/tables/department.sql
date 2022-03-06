@@ -1,0 +1,12 @@
+-- Deploy snowflake_stg:tables/department to snowflake
+
+USE WAREHOUSE &warehouse;
+
+-- XXX Add DDLs here.
+CREATE OR REPLACE TABLE PRE_LANDING.DEPARTMENT
+(
+  DEPARTMENT_ID INTEGER,
+  DEPARTMENT_NAME STRING,
+  PROFESSOR_NAME VARCHAR(200),
+  SUBJECT_NAME TEXT
+);

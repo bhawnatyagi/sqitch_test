@@ -14,3 +14,14 @@ tables/students [tables/students@sq_1000] 2022-03-06T02:56:27Z Bhawna <btyagi@kn
 tables/employee [tables/employee@sq_1000] 2022-03-06T03:02:33Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
 @eq_2000 2022-03-06T03:08:58Z Bhawna <btyagi@knockcrm.com> # Tag employee change.
 tables/employee [tables/employee@eq_2000] 2022-03-06T03:10:11Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
+tables/department 2022-03-06T07:17:52Z Bhawna <btyagi@knockcrm.com> # Add department table.
+@dept_t1_1000 2022-03-06T07:19:56Z Bhawna <btyagi@knockcrm.com> # Tag dept table.
+tables/department [tables/department@dept_t1_1000] 2022-03-06T07:22:13Z Bhawna <btyagi@knockcrm.com> # Adding two more columns in department table.
+@dept_t2_1000 2022-03-06T07:29:26Z Bhawna <btyagi@knockcrm.com> # Tag dept_v2
+tables/department [tables/department@dept_t2_1000] 2022-03-06T07:30:04Z Bhawna <btyagi@knockcrm.com> # Modify data type of dept_name column.
+@dept_t3_1000 2022-03-06T07:34:41Z Bhawna <btyagi@knockcrm.com> # Adding two more columns.
+@dept_t4_1000 2022-03-06T07:41:39Z Bhawna <btyagi@knockcrm.com> # Modify
+tables/department [tables/department@dept_t3_1000] 2022-03-06T07:36:31Z Bhawna <btyagi@knockcrm.com> # Reworking department table.
+tables/logs 2022-03-06T07:38:58Z Bhawna <btyagi@knockcrm.com> # Adding log table.
+@log_1000 2022-03-06T07:42:22Z Bhawna <btyagi@knockcrm.com> # Tag log table.
+tables/department [tables/department@log_1000] 2022-03-06T07:43:13Z Bhawna <btyagi@knockcrm.com> # Dropping one department col.
