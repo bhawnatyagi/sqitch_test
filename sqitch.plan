@@ -14,3 +14,5 @@ tables/students [tables/students@sq_1000] 2022-03-06T02:56:27Z Bhawna <btyagi@kn
 tables/employee [tables/employee@sq_1000] 2022-03-06T03:02:33Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
 @eq_2000 2022-03-06T03:08:58Z Bhawna <btyagi@knockcrm.com> # Tag employee change.
 tables/employee [tables/employee@eq_2000] 2022-03-06T03:10:11Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
+tables/department 2022-03-06T07:17:52Z Bhawna <btyagi@knockcrm.com> # Add department table.
+@dept_t1_1000 2022-03-06T07:19:56Z Bhawna <btyagi@knockcrm.com> # Tag dept table.
