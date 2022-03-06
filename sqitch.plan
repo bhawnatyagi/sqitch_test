@@ -2,8 +2,15 @@
 %project=snowflake_stg
 
 tables/employee 2022-03-06T00:47:45Z Bhawna <btyagi@knockcrm.com> # Add employee table.
+@eq_1000 2022-03-06T03:01:16Z Bhawna <btyagi@knockcrm.com> # Tag employee change.
 tables/alter_employee_table_add_columns 2022-03-06T01:58:53Z Bhawna <btyagi@knockcrm.com> # Add two columns in employee tbl.
 tables/alter_salary_column 2022-03-06T02:07:09Z Bhawna <btyagi@knockcrm.com> # Modify salary data type.
 tables/alter_add_one_more_col_employee 2022-03-06T02:16:19Z Bhawna <btyagi@knockcrm.com> # Adding location column.
 tables/drop_location_col_employee 2022-03-06T02:16:45Z Bhawna <btyagi@knockcrm.com> # Drop location column.
 tables/add_company_col 2022-03-06T02:33:48Z Bhawna <btyagi@knockcrm.com> # Add company column.
+tables/students 2022-03-06T02:49:00Z Bhawna <btyagi@knockcrm.com> # Add student table.
+@sq_1000 2022-03-06T02:56:09Z Bhawna <btyagi@knockcrm.com> # Tag students change.
+tables/students [tables/students@sq_1000] 2022-03-06T02:56:27Z Bhawna <btyagi@knockcrm.com> # Adding two more columns in students table.
+tables/employee [tables/employee@sq_1000] 2022-03-06T03:02:33Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
+@eq_2000 2022-03-06T03:08:58Z Bhawna <btyagi@knockcrm.com> # Tag employee change.
+tables/employee [tables/employee@eq_2000] 2022-03-06T03:10:11Z Bhawna <btyagi@knockcrm.com> # Modify data type and add column in employee table.
