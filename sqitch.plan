@@ -2,3 +2,4 @@
 %project=snowflake_stg
 
 tables/employee 2022-03-06T00:47:45Z Bhawna <btyagi@knockcrm.com> # Add employee table.
+tables/alter_employee_table_add_columns 2022-03-06T01:58:53Z Bhawna <btyagi@knockcrm.com> # Add two columns in employee tbl.
