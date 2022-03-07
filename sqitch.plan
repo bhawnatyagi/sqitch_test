@@ -22,6 +22,8 @@ tables/department [tables/department@dept_t2_1000] 2022-03-06T07:30:04Z Bhawna <
 @dept_t3_1000 2022-03-06T07:34:41Z Bhawna <btyagi@knockcrm.com> # Adding two more columns.
 @dept_t4_1000 2022-03-06T07:41:39Z Bhawna <btyagi@knockcrm.com> # Modify
 tables/department [tables/department@dept_t3_1000] 2022-03-06T07:36:31Z Bhawna <btyagi@knockcrm.com> # Reworking department table.
+@dept_t5_1000 2022-03-06T08:03:32Z Bhawna <btyagi@knockcrm.com> # Add one more column to dept table.
+@dept_t6_1000 2022-03-06T08:11:11Z Bhawna <btyagi@knockcrm.com> # Modify
 tables/logs 2022-03-06T07:38:58Z Bhawna <btyagi@knockcrm.com> # Adding log table.
 @log_1000 2022-03-06T07:42:22Z Bhawna <btyagi@knockcrm.com> # Tag log table.
 tables/department [tables/department@log_1000] 2022-03-06T07:43:13Z Bhawna <btyagi@knockcrm.com> # Dropping one department col.
