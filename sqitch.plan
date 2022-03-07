@@ -27,3 +27,4 @@ tables/department [tables/department@dept_t3_1000] 2022-03-06T07:36:31Z Bhawna <
 tables/logs 2022-03-06T07:38:58Z Bhawna <btyagi@knockcrm.com> # Adding log table.
 @log_1000 2022-03-06T07:42:22Z Bhawna <btyagi@knockcrm.com> # Tag log table.
 tables/department [tables/department@log_1000] 2022-03-06T07:43:13Z Bhawna <btyagi@knockcrm.com> # Dropping one department col.
+tables/transaction 2022-03-07T02:03:50Z Bhawna <btyagi@knockcrm.com> # add transaction table.
